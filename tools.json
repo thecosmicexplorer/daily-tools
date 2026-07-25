@@ -1,5 +1,18 @@
 [
   {
+    "name": "keycloak_openid_auth_bypass_scanner",
+    "filename": "keycloak_openid_auth_bypass_scanner.py",
+    "category": "auth-bypass",
+    "path": "auth-bypass/keycloak_openid_auth_bypass_scanner.py",
+    "date": "2026-07-25",
+    "cve": "CVE-2026-77890",
+    "cvss": null,
+    "description": "Keycloak OpenID Connect authentication bypass vulnerability scanner.",
+    "targets": [
+      "keycloak"
+    ]
+  },
+  {
     "name": "fastapi_path_traversal_scanner",
     "filename": "fastapi_path_traversal_scanner.py",
     "category": "path-traversal",
