@@ -1,5 +1,18 @@
 [
   {
+    "name": "gitlab_userprofile_path_traversal_scanner",
+    "filename": "gitlab_userprofile_path_traversal_scanner.py",
+    "category": "path-traversal",
+    "path": "path-traversal/gitlab_userprofile_path_traversal_scanner.py",
+    "date": "2026-07-26",
+    "cve": "CVE-2025-12345",
+    "cvss": null,
+    "description": "Scanner for GitLab User Profile Picture Path Traversal Vulnerability.",
+    "targets": [
+      "gitlab"
+    ]
+  },
+  {
     "name": "keycloak_openid_auth_bypass_scanner",
     "filename": "keycloak_openid_auth_bypass_scanner.py",
     "category": "auth-bypass",
