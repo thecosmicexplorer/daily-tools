@@ -1,5 +1,19 @@
 [
   {
+    "name": "kubernetes_dashboard_unauth_rce_scanner",
+    "filename": "kubernetes_dashboard_unauth_rce_scanner.py",
+    "category": "rce",
+    "path": "rce/kubernetes_dashboard_unauth_rce_scanner.py",
+    "date": "2026-07-27",
+    "cve": "CVE-2018-18264",
+    "cvss": null,
+    "description": "Kubernetes Dashboard unauthenticated RCE exploitation scanner.",
+    "targets": [
+      "kubernetes",
+      "kube"
+    ]
+  },
+  {
     "name": "gitlab_userprofile_path_traversal_scanner",
     "filename": "gitlab_userprofile_path_traversal_scanner.py",
     "category": "path-traversal",

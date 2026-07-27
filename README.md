@@ -62,6 +62,7 @@ For a **searchable, filterable index** of all tools, visit the site:
 
 | Date | Tool | CVE | Category | Description |
 |------|------|-----|----------|-------------|
+| 2026-07-27 | [kubernetes_dashboard_unauth_rce_scanner.py](rce/kubernetes_dashboard_unauth_rce_scanner.py) | CVE-2018-18264 | rce | Kubernetes Dashboard unauthenticated RCE exploitation scanner. |
 | 2026-07-26 | [gitlab_userprofile_path_traversal_scanner.py](path-traversal/gitlab_userprofile_path_traversal_scanner.py) | CVE-2025-12345 | path-traversal | Scanner for GitLab User Profile Picture Path Traversal Vulnerability. |
 | 2026-07-25 | [keycloak_openid_auth_bypass_scanner.py](auth-bypass/keycloak_openid_auth_bypass_scanner.py) | CVE-2026-77890 | auth-bypass | Keycloak OpenID Connect authentication bypass vulnerability scanner. |
 | 2026-07-24 | [fastapi_path_traversal_scanner.py](path-traversal/fastapi_path_traversal_scanner.py) | CVE-2024-12345 (CVSS 9.1) | path-traversal | FastAPI path traversal vulnerability scanner for identifying unsafe Uvicorn static file serving configurations. |
