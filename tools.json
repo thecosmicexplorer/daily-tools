@@ -1,5 +1,18 @@
 [
   {
+    "name": "aws_iam_policy_privilege_escalation_scanner",
+    "filename": "aws_iam_policy_privilege_escalation_scanner.py",
+    "category": "misc",
+    "path": "misc/aws_iam_policy_privilege_escalation_scanner.py",
+    "date": "2026-07-28",
+    "cve": null,
+    "cvss": null,
+    "description": "Scanner for AWS IAM policy privilege escalation vulnerabilities.",
+    "targets": [
+      "aws"
+    ]
+  },
+  {
     "name": "kubernetes_dashboard_unauth_rce_scanner",
     "filename": "kubernetes_dashboard_unauth_rce_scanner.py",
     "category": "rce",
