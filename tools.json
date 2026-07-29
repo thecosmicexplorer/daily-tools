@@ -1,5 +1,16 @@
 [
   {
+    "name": "fastapi_command_injection_scanner",
+    "filename": "fastapi_command_injection_scanner.py",
+    "category": "rce",
+    "path": "rce/fastapi_command_injection_scanner.py",
+    "date": "2026-07-29",
+    "cve": null,
+    "cvss": null,
+    "description": "Scanner for command injection vulnerability in FastAPI applications.",
+    "targets": []
+  },
+  {
     "name": "aws_iam_policy_privilege_escalation_scanner",
     "filename": "aws_iam_policy_privilege_escalation_scanner.py",
     "category": "misc",
