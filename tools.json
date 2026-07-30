@@ -1,5 +1,18 @@
 [
   {
+    "name": "gitlab_ci_job_path_traversal_scanner",
+    "filename": "gitlab_ci_job_path_traversal_scanner.py",
+    "category": "path-traversal",
+    "path": "path-traversal/gitlab_ci_job_path_traversal_scanner.py",
+    "date": "2026-07-30",
+    "cve": "CVE-2026-44578",
+    "cvss": null,
+    "description": "Scanner for GitLab CI job path traversal vulnerability",
+    "targets": [
+      "gitlab"
+    ]
+  },
+  {
     "name": "fastapi_command_injection_scanner",
     "filename": "fastapi_command_injection_scanner.py",
     "category": "rce",

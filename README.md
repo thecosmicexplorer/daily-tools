@@ -62,6 +62,7 @@ For a **searchable, filterable index** of all tools, visit the site:
 
 | Date | Tool | CVE | Category | Description |
 |------|------|-----|----------|-------------|
+| 2026-07-30 | [gitlab_ci_job_path_traversal_scanner.py](path-traversal/gitlab_ci_job_path_traversal_scanner.py) | CVE-2026-44578 | path-traversal | Scanner for GitLab CI job path traversal vulnerability |
 | 2026-07-29 | [fastapi_command_injection_scanner.py](rce/fastapi_command_injection_scanner.py) | — | rce | Scanner for command injection vulnerability in FastAPI applications. |
 | 2026-07-28 | [aws_iam_policy_privilege_escalation_scanner.py](misc/aws_iam_policy_privilege_escalation_scanner.py) | — | misc | Scanner for AWS IAM policy privilege escalation vulnerabilities. |
 | 2026-07-27 | [kubernetes_dashboard_unauth_rce_scanner.py](rce/kubernetes_dashboard_unauth_rce_scanner.py) | CVE-2018-18264 | rce | Kubernetes Dashboard unauthenticated RCE exploitation scanner. |
